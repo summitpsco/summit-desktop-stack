@@ -1,0 +1,5 @@
+tap "nikitabobko/tap"
+brew "aerospace"
+brew "sketchybar"
+brew "borders"
+brew "lua"
