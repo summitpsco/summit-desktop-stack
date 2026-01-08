@@ -1,5 +1,7 @@
 tap "nikitabobko/tap"
-brew "aerospace"
+
+cask "nikitabobko/tap/aerospace"
+
 brew "sketchybar"
 brew "borders"
 brew "lua"
