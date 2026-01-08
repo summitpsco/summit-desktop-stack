@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_RAW_BASE="https://raw.githubusercontent.com/REPLACE_USERNAME/summit-desktop-stack/main"
+REPO_RAW_BASE="https://raw.githubusercontent.com/summitpsco/summit-desktop-stack/main"
 
 say() { printf "\n\033[1m%s\033[0m\n" "$*"; }
 
